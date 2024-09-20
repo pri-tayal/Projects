@@ -1,5 +1,5 @@
-# Projects
-PWC-PowerBI-Project
+# PWC-PowerBI-Project
+
 As part of the PWC Virtual Program on Forage, I successfully completed a project consisting of three key tasks, each involving the use of Power BI for data analysis and visualization:
 
 Call Centre Trends - Visualising Customer and Agent Behavior
